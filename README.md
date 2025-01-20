@@ -5,7 +5,8 @@ Acesse Kali Linux na vm
 
 Abra o terminal e digite "setoolkit"
 
-selecione a opção 
+selecione a opção:
+ 
 1)Social Engieering Attacks
 
 3) Credential Harvester Attack Method
