@@ -8,14 +8,13 @@ Abra o terminal e digite "setoolkit"
 selecione a opção:
  
 1)Social Engieering Attacks
-
 3) Credential Harvester Attack Method
-
 1) Web Templates
+3) Twitter
 
-3. Twitter
+Acesse o IP do template
 
- Acesse o IP do template 
+
 ![image](https://github.com/user-attachments/assets/c3619a04-8768-4ed6-9042-85f96f2b0162)
 
 
